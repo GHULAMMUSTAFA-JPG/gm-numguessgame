@@ -12,7 +12,7 @@
     "gm-numguessgame": "index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "ghulam_mustafa",
   "license": "ISC",
   "dependencies": {
     "@types/gradient-string": "^1.1.2",
@@ -21,5 +21,13 @@
   "devDependencies": {
     "@types/chalk-animation": "^1.6.1",
     "@types/figlet": "^1.5.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GHULAMMUSTAFA-JPG/gm-numguessgame.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GHULAMMUSTAFA-JPG/gm-numguessgame/issues"
+  },
+  "homepage": "https://github.com/GHULAMMUSTAFA-JPG/gm-numguessgame#readme"
 }
